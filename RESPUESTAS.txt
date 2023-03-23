@@ -1,0 +1,2 @@
+Punto 2, apartado f: ¿Puede ver el archivo tp2_1_2.cpp? ¿Por qué?
+No puedo ver el archivo y creeria que es porque me cambie a la rama principal, master, y ahí solo me muestra lo que se cargo o se subio por ultima vez en master.
